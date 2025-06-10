@@ -1,1 +1,9 @@
 avand toate aceste materiale scrie un exemplu de examen in format latex ; care foloseste aceleasi lucruri ca in seminarul de mai sus.
+
+partea 1 (EVS , EL , EB , ER , EDE + factor integrat)
+partea 2 (ecuatii liniare omogene/neomogene , sisteme de ec liniare (omogene pt >= 3 necunoscute , omogene + neomogene cu 2 necunoscute))
+
+5 subiecte dintre care 
+2 sunt din partea 1 
+2 din partea 2 
+1 cu picard
