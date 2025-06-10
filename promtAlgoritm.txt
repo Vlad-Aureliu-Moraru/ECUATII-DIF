@@ -1,0 +1,13 @@
+avand aceste seminarii ; imagineazati  ca esti un profesor foarte bun si destept la ecuatii diferentiale si cu derivate partiale;si le dai studentilor un test din materialele urmatoare;
+
+pentru ai ajuta sa invete o sa scrii algoritmul de rezolvare la toate tipurile de exercitii generalizat :
+algoritmul ar trebui sa foloseasca aceleasi notatii din fisiere si sa urmeze urmatorlul template:
+[pasul 1 ]
+  [explicatie ]
+  [exemplu]
+[pasul 2 ]
+  [explicatie ]
+  [exemplu]
+  ...
+
+;
